@@ -643,6 +643,7 @@ form#commant_form div.field textarea.custom_field {
 
 .slider_banner img {
     width: 100%;
+    opacity:0.6;
 }
 
 .slider_banner {
